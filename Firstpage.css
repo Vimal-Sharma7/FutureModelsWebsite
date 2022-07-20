@@ -1,0 +1,213 @@
+@media all {
+    
+}
+
+
+body{
+    
+    background-image: url('../first.jpg');
+    
+    
+    height: 170vh;
+}
+header{
+    
+    padding: 30px;
+    color: white;
+    top: 0px;
+    position: sticky;
+}
+.logoBox{
+    display: inline-block;
+    
+    width: 160px;
+    font-size: larger;
+    font-weight: 800px;
+    cursor: pointer;
+}
+.navBox{
+    
+    width: 600px;
+    position: absolute;
+    right: 20px;
+    
+    display: inline-block;
+    
+}
+.navBox>a{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: white;
+    font-size: larger;
+    margin: 20px;
+    text-decoration: none;
+    transition: all 1.8s;
+}
+.navBox>a:hover{
+    color: crimson;
+    zoom: 120%;
+    -ms-zoom-animation: var(0.5s);
+}
+
+
+#homie{
+    color: salmon;
+}
+.heading{
+    
+    color: blueviolet;  
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:relative;
+    top: 40px;
+    width: 500px;
+    letter-spacing: 10px;
+    text-align: justify;
+    line-height: 60px;
+    left: 80px;
+}
+
+.heading+p{
+    color: antiquewhite;
+    width: 700px;
+    font-size: larger;
+    margin: 10px;
+    word-spacing: 4px;
+    position: relative;
+    top: 2px;
+    font-style: italic;
+}
+.Feature{
+    color: rgb(221, 34, 149);
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800px;
+    text-decoration: underline;
+}
+.Anna{
+    
+    
+    width: 300px;
+    height: 400px;
+    position: relative;
+    top: -30px;
+    left: 100px;
+    background-image: url('../AnnaPodshivalova.jpg');
+    border: none;
+    border-radius: 30px;
+    
+}
+.info{
+    color: antiquewhite;
+    
+    width: 700px;
+    font-size: larger;
+    position: relative;
+    top: -20px;
+    left: 340px ;
+    height: 200px;
+    word-spacing: 20px;
+    font-style: italic;
+
+}
+.Anna>h1{
+    color: aliceblue;
+    position: relative;
+    font-family:'Oleo Script Swash Caps'; 
+    left: 400px;
+    font-size: 50px;
+    
+
+}
+.modelbg{
+    background-image: url('../PP.JPG');
+    position: relative;
+    
+}
+.info>a{
+    color: red;
+}
+
+.Iliyana{
+    width: 300px;
+    height: 400px;
+    position: relative;
+    top: -30px;
+    left: 800px;
+    background-image: url('../Iliyana.jpg');
+    border: none;
+    border-radius: 30px;
+}
+
+.Iliyana>h1{
+    color: aliceblue;
+    font-family:'Oleo Script Swash Caps' ;
+    position: relative;
+    top: 50px;
+    left: -500px;
+    font-size: 50px;
+}
+.Iliyana>p{
+    color: antiquewhite;
+    
+    position: relative;
+    top: 30px;
+    left: -700px;
+    width: 700px;
+    height: 200px;
+    font-size: larger;
+    font-style: italic;
+    word-spacing: 20px;
+
+}
+.Iliyana>p>a{
+    color: red;
+}
+
+footer{
+    
+    height: 110px;
+    margin: 0;
+    color: aliceblue;
+    font-size: 30px;
+    word-spacing: 15px;
+    background-color: black;
+    position: relative;
+    left: 100px;
+    
+}
+.btn{
+        
+        display:inline-block;
+        background-color: salmon;
+        padding:0.5em 3em;
+        border:0.16em solid #f30808;
+        margin:0 0.3em 0.3em 0;
+        box-sizing: border-box;
+        text-decoration:none;
+        text-transform:uppercase;
+        font-family:'Roboto',sans-serif;
+        font-weight:400;
+        color:#0f0808;
+        text-align:center;
+        transition: all 0.15s;
+        position: relative;
+        left: 30px;
+        
+        border-radius: 50px;
+        
+     }
+        
+.btn:hover{
+        color:#06cdff;
+        border-top-color:#00f335;
+        }
+.btn:active{
+        color:#ff00ff;
+        border-top-color:#0b7264;}
+.Thank{
+    position: relative;
+    
+    left: 700px;
+}
+        
+    
