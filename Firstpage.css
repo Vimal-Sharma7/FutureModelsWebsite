@@ -1,6 +1,6 @@
 body{
     
-    background-image: url('../first.jpg');
+    background-image: url('first.jpg');
     
     
     height: 170vh;
@@ -86,7 +86,7 @@ header{
     position: relative;
     top: -30px;
     left: 100px;
-    background-image: url('../AnnaPodshivalova.jpg');
+    background-image: url('AnnaPodshivalova.jpg');
     border: none;
     border-radius: 30px;
     
@@ -114,7 +114,7 @@ header{
 
 }
 .modelbg{
-    background-image: url('../PP.JPG');
+    background-image: url('PP.JPG');
     position: relative;
     
 }
@@ -128,7 +128,7 @@ header{
     position: relative;
     top: -30px;
     left: 800px;
-    background-image: url('../Iliyana.jpg');
+    background-image: url('Iliyana.jpg');
     border: none;
     border-radius: 30px;
 }
